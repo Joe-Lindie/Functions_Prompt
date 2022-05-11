@@ -1,4 +1,4 @@
-# Functions Prompts 
+# F&C Functions Prompts 
 ## Week 2: Complete the list of functions prompts 
 
 - Hello User 
